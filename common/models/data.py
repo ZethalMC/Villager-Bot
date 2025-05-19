@@ -283,7 +283,10 @@ class Emojis(ImmutableBaseModel):
     glass_beaker: str
     jack_o_lantern: str
     pumpkin_pie: str
-    
+    four_leaf_clover: str
+    flower_bouquet: str
+    surgical_mask: str
+
     farming: FarmingEmojis
     reees: list[str]
     fish: FishEmojis
