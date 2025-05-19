@@ -278,6 +278,12 @@ class Emojis(ImmutableBaseModel):
     party_popper: str
     bopa: str
     pumpkin: str
+    cobweb: str
+    skeleton_skull: str
+    glass_beaker: str
+    jack_o_lantern: str
+    pumpkin_pie: str
+    
     farming: FarmingEmojis
     reees: list[str]
     fish: FishEmojis
