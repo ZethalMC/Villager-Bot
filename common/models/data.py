@@ -277,6 +277,7 @@ class Emojis(ImmutableBaseModel):
     rainbow_sparkles_easter_egg: str
     party_popper: str
     bopa: str
+    stocking: str
     wumpus_statue: str
     discord_10th_cake: str
     blurple_paint: str

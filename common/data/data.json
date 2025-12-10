@@ -800,6 +800,8 @@
     "easter": [[3, 31], [4, 23]],
     "halloween": [[10, 20], [11, 5]],
     "4july": [[6, 30], [7, 15]],
+    "christmas": [[12, 10], [12, 27]],
+    "newyear": [[12, 25], [1, 1]],
     "discord_birthday": [[5, 6], [5, 20]]
   },
   "findables": [
@@ -1270,42 +1272,42 @@
       "sell_price": 128,
       "rarity": 1024,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "Blue Firework Rocket",
       "sell_price": 128,
       "rarity": 1024,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "Green Firework Rocket",
       "sell_price": 128,
       "rarity": 1024,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "Orange Firework Rocket",
       "sell_price": 128,
       "rarity": 1024,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "Purple Firework Rocket",
       "sell_price": 128,
       "rarity": 1024,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "Yellow Firework Rocket",
       "sell_price": 128,
       "rarity": 1024,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "American Flag",
@@ -1333,14 +1335,14 @@
       "sell_price": 768,
       "rarity": 131072,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "Firecracker",
       "sell_price": 64,
       "rarity": 512,
       "sticky": false,
-      "tags": ["mine", "4july"]
+      "tags": ["mine", "4july", "newyear"]
     },
     {
       "item": "Declaration Of Independence",
@@ -1355,6 +1357,41 @@
       "rarity": 8192,
       "sticky": false,
       "tags": ["mine"]
+    },
+    {
+      "item": "Champagne Glass",
+      "sell_price": 512,
+      "rarity": 32768,
+      "sticky": false,
+      "tags": ["mine", "fish", "newyear", "christmas"]
+    },
+    {
+      "item": "Candy Cane",
+      "sell_price": 256,
+      "rarity": 1024,
+      "sticky": false,
+      "tags": ["mine", "fish", "christmas"]
+    },
+    {
+      "item": "Christmas Stocking",
+      "sell_price": 512,
+      "rarity": 2048,
+      "sticky": false,
+      "tags": ["mine", "fish", "christmas"]
+    },
+    {
+      "item": "Christmas Tree",
+      "sell_price": 2048,
+      "rarity": 16384,
+      "sticky": false,
+      "tags": ["mine", "fish", "christmas"]
+    },
+    {
+      "item": "Rudolphs Red Nose",
+      "sell_price": 3333,
+      "rarity": 32768,
+      "sticky": false,
+      "tags": ["mine", "fish", "christmas"]
     }
   ],
   "rpt_ignore": [
@@ -1602,6 +1639,7 @@
     "discord_10th_cake": "<:discord_10th_cake:1370074004542455949>",
     "blurple_paint": "<:discord_blurple_paint:1370395312505753700>",
     "wumpus_statue": "<:discord_wumpus_statue:1370395415043772416>",
+    "stocking": "<:stocking:1448339346628411412>",
     "farming": {
       "growing": {
         "emerald_fruit": "<:emeraldf_g:927292976756031551>",
@@ -1889,6 +1927,7 @@
     "Rainbow Sparkles Easter Egg": "rainbow_sparkles_easter_egg",
     "Party Popper": "party_popper",
     "Bane Of Pillagers Amulet": "bopa",
+    "Christmas Stocking": "stocking",
     "Discord 10th Birthday Cake": "discord_10th_cake",
     "Blurple Paint Bucket": "blurple_paint",
     "Wumpus Statue": "wumpus_statue"
